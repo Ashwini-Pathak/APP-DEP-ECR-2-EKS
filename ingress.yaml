@@ -21,7 +21,7 @@ spec:
                 name: frontend-service
                 port:
                   number: 80
-    - host: bknd.trythat.ribadevops.site
+    - host: bknd.trythat.aribadevops.site
       http:
         paths:
           - path: /

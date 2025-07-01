@@ -8,5 +8,5 @@ data:
   PORT: "8000"
   FRONTEND_URL: "https://app.trythat.aribadevops.site"
   HOST_URL: "https://bknd.trythat.ribadevops.site/v1"
-  DB_URI: "mongodb+srv://<user>:<pass>@cluster.mongodb.net/tt_uapp?retryWrites=true&w=majority"
+  DB_URI: "mongodb+srv://cloudnexus:Cloudnexus123@cluster0.ixczwk2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   JWT_EXPIRY: "3600"
